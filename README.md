@@ -12,8 +12,7 @@ classic non-Flatpak version of this application.**
 
 - If the bug is also reproducible with the **non-Flatpak version** of this
   application, please take a look at the [currently opened bugs][bugs] and if
-  it has not been reported yet, file a bug at
-  [bugs.kde.org].
+  it has not been reported yet, file a bug at [bugs.kde.org].
 
 **If you have any doubt, please file an [issue here][issue].**
 
@@ -21,8 +20,7 @@ classic non-Flatpak version of this application.**
 
 This application requests the following restricted permissions:
 
-- Required for accessibility: `--talk-name=org.a11y.Bus`
-- Required to run commands on the host: `--talk=TODO`
+- Required to run commands on the host: `--talk-name=org.freedesktop.Flatpak`
 
 [Homepage]: https://konsole.kde.org/
 [KDE Apps]: https://apps.kde.org/konsole/
