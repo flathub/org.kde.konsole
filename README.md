@@ -21,6 +21,7 @@ classic non-Flatpak version of this application.**
 This application requests the following restricted permissions:
 
 - Required to run commands on the host: `--talk-name=org.freedesktop.Flatpak`
+- Required to get new Color Schemes: `--share=network`
 
 [Homepage]: https://konsole.kde.org/
 [KDE Apps]: https://apps.kde.org/konsole/
