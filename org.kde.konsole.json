@@ -8,6 +8,7 @@
     "finish-args": [
         "--device=dri",
         "--share=ipc",
+        "--share=network",
         "--socket=wayland",
         "--socket=fallback-x11",
         "--talk-name=org.freedesktop.Flatpak"
