@@ -27,9 +27,9 @@
                     "sha256": "e06f400d03967ab6c43090fb52571e613981439f5006f45bf87a8d3762f0c8cc",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 8763,
+                        "project-id": 368663,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/konsole-$version.tar.xz"
+                        "url-template": "https://download.kde.org/unstable/release-service/$version/src/konsole-$version.tar.xz"
                     }
                 }
             ]
