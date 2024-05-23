@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/konsole-24.02.2.tar.xz",
-                    "sha256": "66467e336536d7df5c12bcad31a3ef0a2150c40351d87677047a40eae440ee2f",
+                    "url": "https://download.kde.org/stable/release-service/24.05.0/src/konsole-24.05.0.tar.xz",
+                    "sha256": "53efd25c1d574448db57f446f423328c7f2f08889f67defc1ed5c783c9ef47f4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
