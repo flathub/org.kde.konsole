@@ -13,6 +13,10 @@
         "--socket=fallback-x11",
         "--talk-name=org.freedesktop.Flatpak"
     ],
+    "cleanup": [
+        "/share/doc",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         {
             "name": "konsole",
